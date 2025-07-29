@@ -1,4 +1,4 @@
-#!/Users/kundanyadav/Kite2.0/MCPServer/.venv/bin/python3
+#!/Users/kundanyadav/Kite2.0/kiteMCPServer/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
